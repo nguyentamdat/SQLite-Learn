@@ -1,0 +1,19 @@
+{
+    "name": "sqlite",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "dependencies": {
+        "sqlite3": "^4.1.0"
+    },
+    "devDependencies": {
+        "eslint": "^6.5.1",
+        "eslint-config-airbnb-base": "^14.0.0",
+        "eslint-plugin-import": "^2.18.2"
+    },
+    "scripts": {
+        "test": "node main.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
